@@ -1,3 +1,5 @@
+> **Moved:** this skill now lives in [kimasplund/thinkbetter-skills](https://github.com/kimasplund/thinkbetter-skills), together with the rest of the reasoning suite. This repo is archived.
+
 # skill-gauntlet
 
 An agent skill for regression-guarded, blind, pre-registered A/B evaluation of other skills, prompts, and agent configurations. A candidate revision is adopted only when it beats the current champion on the dimensions it targets **without regressing anything you already have** — and the gate is written down, sealed, before a single cell runs.
